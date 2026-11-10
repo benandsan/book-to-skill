@@ -1,6 +1,6 @@
 ---
 name: book-to-skill
-description: "Converts books and documents (PDF, EPUB, DOCX, HTML, Markdown, plain text, RTF, MOBI/AZW with Calibre) into structured agent skills, extracting frameworks, mental models, principles, techniques, and anti-patterns. Use when the user wants to study a document through GitHub Copilot CLI, Amp, Claude Code, Hermes Agent, OpenCode, or OpenClaw, apply an author's frameworks while working, or build a reusable knowledge base from a file."
+description: 将 PDF、EPUB、DOCX、HTML、Markdown、纯文本、RTF 或 MOBI/AZW 文档转换为结构化代理技能，提炼框架、心智模型、原则、技巧和反模式；适用于通过 AI 编码代理学习或运用文档中的方法。
 ---
 
 <!--
